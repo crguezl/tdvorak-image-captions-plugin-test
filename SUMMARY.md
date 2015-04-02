@@ -2,6 +2,6 @@
 
 * [introduction](README.md)
    * Thailand
-       * Phetchaburi
+       * [Phetchaburi](phetchaburi.md)
    * Vietnam
 
