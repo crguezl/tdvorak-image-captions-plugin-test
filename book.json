@@ -4,7 +4,6 @@
     ],
     "pluginsConfig": {},
     "styles": {
-        "website": "website.css",
-        "ebook": "website.css"
+        "website": "website.css"
     }
 }
