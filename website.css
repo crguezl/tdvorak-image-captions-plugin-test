@@ -5,6 +5,7 @@ figure {
 
 figcaption {
     clear:left;
+    color:red;
     margin: 0.75em 0px;
     text-align: left;
     font-style: normal;
