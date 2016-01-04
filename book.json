@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "image-captions"
+        "image-captions":"0.3.0"
     ],
     "pluginsConfig": {},
     "styles": {
