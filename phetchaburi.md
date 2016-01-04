@@ -7,6 +7,8 @@ Phetchaburi is a town in southern Thailand, capital of Phetchaburi Province. In 
 
 It is approximately 160 km south of Bangkok, at the northern end of the Thai peninsula. As of 2005, the town had a population of 26,181 and covers the two tambon Tha Rap and Khlong Krachaeng.
 
+[![SPE Remoting Module](http://img.youtube.com/vi/fGvT8eDdWrg/0.jpg)](http://www.youtube.com/watch?v=fGvT8eDdWrg "Click for a quick demo")
+
 ---
 Note: 
 - Text:  [Wikipedia](https://en.wikipedia.org/wiki/Phetchaburi)
