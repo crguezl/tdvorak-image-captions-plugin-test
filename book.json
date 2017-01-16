@@ -1,9 +1,0 @@
-{
-    "plugins": [
-        "image-captions"
-    ],
-    "pluginsConfig": {},
-    "styles": {
-        "website": "website.css"
-    }
-}
